@@ -3,7 +3,7 @@
 
 - 📷 React Native 모바일 애플리케이션 [비인가 객체 모자이크 처리 기술을 적용한 모바일 앱](https://github.com/ChoiJaeYeon23/TeeMo)
 
-- 👯 Java 데스크탑 애플리케이션 [소켓 통신을 이용한 데스크탑 애플리케이션 오목 게임](https://github.com/wusemr/omok)
+- 🎮 Java 데스크탑 애플리케이션 [소켓 통신을 이용한 데스크탑 애플리케이션 오목 게임](https://github.com/wusemr/omok)
 
 - 🚧 React & React Native 웹, 앱 플랫폼 (진행중) [피드와 디엠 기능을 포함한 소셜 미디어 애플리케이션](https://github.com/wusemr/social_project)
 
