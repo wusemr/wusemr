@@ -1,0 +1,32 @@
+name: Update Badges
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 매일 자정에 실행
+  workflow_dispatch:  # 수동 실행 가능
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Generate stats
+        id: generate-stats
+        run: |
+          # Github stats를 가져와서 생성
+          echo "Generating stats for user 'wusemr'"
+          curl -s "https://github.com/rahul-jha98/github-stats-transparent?username=wusemr&theme=dark&cache=86400" > stats.svg
+          mv stats.svg ./output/
+
+      - name: Commit and push stats
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/stats.svg
+          git commit -m "Update GitHub stats" || echo "No changes"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
