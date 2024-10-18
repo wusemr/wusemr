@@ -21,7 +21,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wusemr&show_icons=true&locale=en&layout=compact" alt="wusemr" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wusemr&theme=dark)](https://github.com/wusemr/wusemr)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wusemr&" alt="wusemr" /></p>
