@@ -18,8 +18,7 @@ jobs:
         run: |
           # Github stats를 가져와서 생성
           echo "Generating stats for user 'wusemr'"
-          curl -s "https://github.com/rahul-jha98/github-stats-transparent?username=wusemr&theme=dark&cache=86400" > stats.svg
-          mv stats.svg ./output/
+          curl -s -o output/stats.svg "https://github.com/rahul-jha98/github-stats-transparent?username=wusemr&theme=dark&cache=86400"
 
       - name: Commit and push stats
         run: |
