@@ -24,3 +24,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wusemr&" alt="wusemr" /></p>
+
+
+<img src="https://github.com/wusemr/wusemr/blob/output/github-contribution-grid-snake.svg"/>
