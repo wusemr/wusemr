@@ -21,11 +21,6 @@
 
 ![GitHub Stats](https://github.com/wusemr/github-stats-transparent/blob/output/generated/languages.svg)
 
-
-<a href="https://github.com/wusemr/wusemr">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wusemr&theme=dark" width="300"/>
-</a>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/wusemr/wusemr/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/wusemr/wusemr/blob/output/github-contribution-grid-snake.svg" />
