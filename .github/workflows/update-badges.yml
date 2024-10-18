@@ -12,9 +12,6 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-        
-      - name: Create output directory
-        run: mkdir -p output  # output 폴더가 없을 경우 생성
       
       - name: Generate stats
         id: generate-stats
