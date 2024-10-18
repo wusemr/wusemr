@@ -23,6 +23,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wusemr&theme=dark)](https://github.com/wusemr/wusemr)
 
+<a href="https://github.com/wusemr/wusemr">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wusemr&theme=dark" width="400"/>
+</a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/wusemr/wusemr/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/wusemr/wusemr/blob/output/github-contribution-grid-snake.svg" />
