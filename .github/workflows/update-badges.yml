@@ -13,13 +13,16 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
         
+      - name: Create output directory
+        run: mkdir -p output  # output 폴더가 없을 경우 생성
+      
       - name: Generate stats
         id: generate-stats
         run: |
           # Github stats를 가져와서 생성
           echo "Generating stats for user 'wusemr'"
           curl -s "https://github.com/rahul-jha98/github-stats-transparent?username=wusemr&theme=dark&cache=86400" > stats.svg
-          mv stats.svg ./output/
+          mv stats.svg ./output/  # output 폴더로 stats.svg 이동
 
       - name: Commit and push stats
         run: |
