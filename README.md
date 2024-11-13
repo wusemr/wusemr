@@ -9,6 +9,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Selfie%20Light%20Skin%20Tone.png" alt="Selfie Light Skin Tone" width="25" height="25" /> <a href="https://github.com/ChoiJaeYeon23/TeeMo">비인가 객체 모자이크 처리 기술을 적용한 모바일 앱</a>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up%20Light%20Skin%20Tone.png" alt="Thumbs Up Light Skin Tone" width="25" height="25" /> <a href="https://github.com/wusemr/my-social-app">실시간 게시물 공유 모바일 앱</a>
+</p>
 
 <h4 align="center"> Java 데스크탑 애플리케이션 </h4>
 <p align="center">
@@ -17,7 +20,7 @@
 
 <h4 align="center"> React & React Native 웹, 앱 플랫폼 </h4>
 <p align="center">
-  🚧 <a href="https://github.com/wusemr/social_project">피드와 디엠 기능을 포함한 소셜 미디어 애플리케이션</a><sub> 진행 중</sub>
+  🚧 <a href="https://github.com/wusemr/social_project">게시물 공유와 메시지 기능을 포함한 소셜 미디어 플랫폼</a><sub> 진행 중</sub>
 </p>
 
 <br/>
