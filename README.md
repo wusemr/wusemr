@@ -60,10 +60,12 @@
 
 <br/>
 
+<!--
 <h4 align="center"> Most Used Languages </h4>
 <div align="center">
   <img src="https://github.com/wusemr/github-stats-transparent/blob/output/generated/languages.svg" alt="GitHub Stats" />
 </div>
+-->
 
 <br/>
 <br/>
