@@ -27,8 +27,9 @@
 
 <h2 align="center"> Profile </h2>
 
-<h4 align="center"> 📝 개발 일기 <a href="https://velog.io/@wusemr/posts">https://velog.io/@wusemr/posts</a> </h4>
+<h4 align="center"> 🖥️ 개발 일기 <a href="https://velog.io/@wusemr/posts">https://velog.io/@wusemr/posts</a> </h4>
 
+<h4 align="center"> 📅✍ 블로그 <a href="https://blog.naver.com/wusemr2">https://blog.naver.com/wusemr2</a> </h4>
 <h4 align="center"> 📫 메일 주소 <a href="mailto:wusemr2@naver.com">wusemr2@naver.com</a> </h4>
 
 <h4 align="center"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_delay0_0" height="18" width="18" /> 인스타그램 <a href="https://instagram.com/_delay0_0">https://instagram.com/_delay0_0</a> </h4>
