@@ -27,8 +27,9 @@
 
 <h2 align="center"> Profile </h2>
 
+<!--
 <h4 align="center"> 🖥️ 개발 일기 <a href="https://velog.io/@wusemr/posts">https://velog.io/@wusemr/posts</a> </h4>
-
+-->
 <h4 align="center"> 📅🏡 블로그 <a href="https://blog.naver.com/wusemr2">https://blog.naver.com/wusemr2</a> </h4>
 <h4 align="center"> 📫 메일 주소 <a href="mailto:wusemr2@naver.com">wusemr2@naver.com</a> </h4>
 
